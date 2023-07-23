@@ -77,4 +77,9 @@ DerivedDataCache/*
 CarCon/Content/CarConfigurator/
 CarCon/Content/References/
 CarCon/Content/AutomotiveMaterials/
+CarCon/Saved/
+CarCon/Intermediate/
+CarCon/DerivedDataCache/
+CarCon/Build/
+CarCon/Binaries/
 
